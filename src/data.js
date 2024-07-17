@@ -1,14 +1,33 @@
 export const nav = [
     {
       title: "Our story",
-      path: "/",
+      path: "/about",
     },
     {
       title: "Membership",
       path: "/",
     },
+  ];
+
+  export const FooterNav = [
     {
-      title: "Write",
+      title: "About",
+      path: "/",
+    },
+    {
+      title: "Terms",
+      path: "/",
+    },
+    {
+      title: "Privacy",
+      path: "/",
+    },
+    {
+      title: "Help",
+      path: "/",
+    },
+    {
+      title: "Press",
       path: "/",
     },
   ];
